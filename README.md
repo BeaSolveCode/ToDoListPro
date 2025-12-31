@@ -11,7 +11,7 @@ Proyecto desarrollado para la gestión de tareas académicas, enfocado en aplica
 
 ## 🛠️ ℂ𝕠𝕟𝕗𝕚𝕘𝕦𝕣𝕒𝕔𝕚𝕠́𝕟
 
-### Requisitos previos
+### ℝ𝕖𝕢𝕦𝕚𝕤𝕚𝕥𝕠𝕤 𝕡𝕣𝕖𝕧𝕚𝕠𝕤
 * JDK 17 o superior.
 * MongoDB instalado y corriendo en local (puerto 27017).
 * Maven.
